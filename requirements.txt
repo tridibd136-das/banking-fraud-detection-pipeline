@@ -1,0 +1,12 @@
+pandas
+numpy
+faker
+mysql-connector-python
+matplotlib
+seaborn
+scikit-learn
+notebook
+jupyter
+streamlit
+plotly
+dash
